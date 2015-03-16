@@ -1,4 +1,6 @@
 {
+
+    "name": "punkstar/mageqa",
     "minimum-stability":"dev",
 
     "require": {
@@ -9,12 +11,6 @@
 
     "config": {
       "bin-dir": "bin/"
-    },
+    }
 
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/punkstar/MageCI.git"
-      }
-    ]
 }
